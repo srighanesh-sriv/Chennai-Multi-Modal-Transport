@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Stops-17%20Real%20Chennai%20Stops-yellow?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+
 > End-to-end transit planning system for Chennai spanning MTC bus, Metro, and suburban rail. A Pareto-front scoring engine ranks every valid route simultaneously across **time, cost, distance, and CO₂** not just fastest, but genuinely optimal. Prototype built with 17 real Chennai stops and a full React UI.
 
 ---
