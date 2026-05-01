@@ -727,18 +727,12 @@ cmmt-transit-planner/
 ## Author
 
 **Srighanesh A S**
-B.Tech ECE — SRM Institute of Science and Technology (CGPA 9.35)
-Market Analyst @ Siemens, Chennai
+- B.Tech ECE — SRM Institute of Science and Technology
+- Market Analyst @ Siemens, Chennai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srighanesh-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/srighaneshsrivathsan)
 [![Email](https://img.shields.io/badge/Email-srighanesh.sriv%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:srighanesh.sriv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-srighanesh--sriv-181717?style=flat-square&logo=github)](https://github.com/srighanesh-sriv)
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
