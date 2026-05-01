@@ -8,12 +8,11 @@
   <img src="https://img.shields.io/badge/Algorithm-Pareto%20Multi--Objective-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stops-17%20Real%20Chennai%20Stops-yellow?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
 </p>
 
 # CMMT — Chennai Multi-Modal Transit Planner
 
-> End-to-end transit planning system for Chennai spanning MTC bus, Metro, and suburban rail. A Pareto-front scoring engine ranks every valid route simultaneously across **time, cost, distance, and CO₂** — not just fastest, but genuinely optimal. Prototype built with 17 real Chennai stops and a full React UI.
+> End-to-end transit planning system for Chennai spanning MTC bus, Metro, and suburban rail. A Pareto-front scoring engine ranks every valid route simultaneously across **time, cost, distance, and CO₂** not just fastest, but genuinely optimal. Prototype built with 17 real Chennai stops and a full React UI.
 
 ---
 
@@ -34,7 +33,7 @@
 
 ## Problem
 
-Getting from A to B in Chennai means navigating three completely separate transit systems — MTC buses, Chennai Metro (CMRL), and suburban rail — each with their own schedules, fares, and data formats. No single tool integrates all three and answers the real question: **what is the best route given my actual priorities?**
+Getting from A to B in Chennai means navigating three completely separate transit systems(MTC buses, Chennai Metro (CMRL), and suburban rail) each with their own schedules, fares, and data formats. No single tool integrates all three and answers the real question on the best route given my actual priorities.
 
 Standard navigation tools optimise for one thing: time. But a student cares about cost. A commuter cares about reliability. An environmentally conscious rider cares about CO₂. CMMT treats route selection as the **multi-objective optimisation problem it actually is** — and surfaces the full Pareto-optimal set so users can choose.
 
