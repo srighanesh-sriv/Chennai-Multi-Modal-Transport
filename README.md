@@ -35,7 +35,7 @@
 
 Getting from A to B in Chennai means navigating three completely separate transit systems(MTC buses, Chennai Metro (CMRL), and suburban rail) each with their own schedules, fares, and data formats. No single tool integrates all three and answers the real question on the best route given my actual priorities.
 
-Standard navigation tools optimise for one thing: time. But a student cares about cost. A commuter cares about reliability. An environmentally conscious rider cares about CO₂. CMMT treats route selection as the **multi-objective optimisation problem it actually is** — and surfaces the full Pareto-optimal set so users can choose.
+Standard navigation tools optimise for one thing: time. But a student cares about cost. A commuter cares about reliability. An environmentally conscious rider cares about CO₂. CMMT treats route selection as the **multi-objective optimisation problem it actually is** and surfaces the full Pareto-optimal set so users can choose.
 
 ---
 
