@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2e1c&height=130&section=header&text=%F0%9F%9A%87%20CMMT%20%E2%80%94%20Chennai%20Multi-Modal%20Transit%20Planner&fontSize=26&fontColor=3fb950&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2e1c&height=130&section=header&text=CMMT%20(Chennai%20Multi%20Modal%20Transit%20Planner)&fontSize=26&fontColor=3fb950&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
