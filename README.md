@@ -64,7 +64,7 @@ The full pipeline: raw GTFS feeds → ingestion & normalisation → NetworkX gra
 
 ![Pareto Front](cmmt_screenshots/02_pareto_front.png)
 
-Left: time vs cost Pareto front across 40 candidate routes — green points are non-dominated (Pareto-optimal), blue points are dominated and filtered out. Right: same analysis for time vs CO₂. The engine produces both simultaneously.
+Left: time vs cost Pareto front across 40 candidate routes where green points are non-dominated (Pareto-optimal), blue points are dominated and filtered out. Right: same analysis for time vs CO₂. The engine produces both simultaneously.
 
 ---
 
@@ -72,7 +72,7 @@ Left: time vs cost Pareto front across 40 candidate routes — green points are 
 
 ![CO₂ Comparison](cmmt_screenshots/03_co2_comparison.png)
 
-Left: CO₂ emission factors per mode per km per passenger — metro at 5 gCO₂eq/km is 31× cleaner than a cab. Right: normalised comparison of 4 route options for Anna Nagar → Airport across time, cost, and CO₂ simultaneously.
+Left: CO₂ emission factors per mode per km per passenger, here metro at 5 gCO₂eq/km is 31× cleaner than a cab. Right: normalised comparison of 4 route options for Anna Nagar → Airport across time, cost, and CO₂ simultaneously.
 
 ---
 
